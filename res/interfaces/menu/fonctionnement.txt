@@ -1,0 +1,15 @@
+  ______               _   _                                             _   
+ |  ____|             | | (_)                                           | |  
+ | |__ ___  _ __   ___| |_ _  ___  _ __  _ __   ___ _ __ ___   ___ _ __ | |_ 
+ |  __/ _ \| '_ \ / __| __| |/ _ \| '_ \| '_ \ / _ \ '_ ` _ \ / _ \ '_ \| __|
+ | | | (_) | | | | (__| |_| | (_) | | | | | | |  __/ | | | | |  __/ | | | |_ 
+ |_|  \___/|_| |_|\___|\__|_|\___/|_| |_|_| |_|\___|_| |_| |_|\___|_| |_|\__|
+                                                                             
+                                                                        
+
+Jeu tour par tour ("rogue-like") où le joueur avance à travers des niveaux et des étages où il rencontrera des monstres et des objets qui l'aideront dans cette aventure.
+
+### Quelques petites informations ###
+- Le joueur devra choisir une classe au démarrage du jeu qui ne pourra pas être changé avant la fin du jeu.
+- Les objets améliorent les capacités du joueur.
+- Plus le joueur avance à travers des niveaux, plus la difficulté augmentera.
